@@ -14,3 +14,7 @@ It automatically trained the sequence features of sgRNA-DNA pairs with GloVe mod
 ## Usage
 1. Encode the sgrna-dna pairs  using the method mentioned in our paper.
 2. Load .H5 model and make prediction.
+
+## File description
+
+* 
